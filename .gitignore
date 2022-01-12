@@ -328,5 +328,6 @@ healthcare/media/
 *.sqlite
 *.sqlite3
 
+.env
 .idea/vcs.xml
 
